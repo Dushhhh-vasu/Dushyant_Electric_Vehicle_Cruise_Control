@@ -132,17 +132,17 @@ Kp = 5.0    Ki = 2.0
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                SIMULATION COMPLETE                      ║
+║                SIMULATION COMPLETE                       ║
 ╠══════════════════════════════════════════════════════════╣
-║  Actual PID Overshoot        : X.XX %                   ║
-║  Actual PID Steady-State Err : X.XX %                   ║
+║  Actual PID Overshoot        : 0.06 %                    ║
+║  Actual PID Steady-State Err : 0.55 %                    ║
 ╠══════════════════════════════════════════════════════════╣
-║  Mean Monte Carlo SSE         : X.XX %                  ║
-║  Mean Monte Carlo OS          : X.XX %                  ║
+║  Mean Monte Carlo SSE         : 0.72 %                   ║
+║  Mean Monte Carlo OS          : 1.41 %                   ║
 ╠══════════════════════════════════════════════════════════╣
-║  Energy Used                  : X.XXX kWh               ║
-║  Regen Energy                 : X.XXX kWh               ║
-║  Final Battery SOC            : XX.XX %                  ║
+║  Energy Used                  : 0.602 kWh                ║
+║  Regen Energy                 : 0.076 kWh                ║
+║  Final Battery SOC            : 97.99 %                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
