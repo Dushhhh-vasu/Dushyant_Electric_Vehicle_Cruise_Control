@@ -172,6 +172,3 @@ All runs use the **same disturbance profiles** (slope, wind, load) to isolate th
 
 ---
 
-## 📄 License
-
-This project is for educational and research purposes.
