@@ -1,4 +1,4 @@
-# Vasupalli_Dushyant_Electric_Vehicle_Cruise_Control
+#Dushyant_Electric_Vehicle_Cruise_Control
 
 # 🚗⚡ Advanced EV Intelligent Cruise Control System
 
